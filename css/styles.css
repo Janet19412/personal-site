@@ -1,0 +1,28 @@
+body {
+  background-color:#e4efe7;
+}
+hr {
+  border-style:none;
+  border-top-style:dotted;
+  border-width:5px;
+  border-color:grey;
+  width:5%;
+}
+h1 {
+  color:#66BFBF;
+  /* text-align:center; */
+}
+h3 {
+  color:#1eae98;
+  /* text-align:center; */
+}
+.picture-img {
+  width: 50%;
+  padding-left: 5rem;
+
+}
+
+.introduction {
+  padding-right: 18rem;
+
+}
